@@ -163,6 +163,10 @@ poetry run task-tracker list done
 poetry run task-tracker delete <task_id>
 ```
 
+## Idea taken from
+
+<https://roadmap.sh/projects/task-tracker>
+
 ---
 
 **Happy task tracking! 🚀**
