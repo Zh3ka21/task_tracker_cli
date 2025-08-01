@@ -1,0 +1,3 @@
+STATUS_MARK_DONE = "done"
+STATUS_MARK_TODO = "todo"
+STATUS_MARK_INPROGRESS = "in-progress"

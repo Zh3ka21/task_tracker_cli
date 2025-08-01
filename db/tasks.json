@@ -1,0 +1,16 @@
+{
+  "Find a new friend": {
+    "id": "5921e384-456c-411d-b281-1ce5f5d7048a",
+    "description": "",
+    "status": "todo",
+    "created_at": "2025-08-01 17:46:15.374680",
+    "updated_at": "2025-08-01 17:46:15.374694"
+  },
+  "Buy groceries": {
+    "id": "b752b748-416e-4614-aa5a-43936b99b72e",
+    "description": "",
+    "status": "done",
+    "created_at": "2025-08-01 17:45:55.228373",
+    "updated_at": "2025-08-01 18:04:39.185235"
+  }
+}
